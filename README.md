@@ -33,7 +33,7 @@ Permite registrar ganhos e gastos, visualizar listas e calcular o saldo líquido
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/caderneta-financeira.git
+git clone https://github.com/DavidRocha12/caderneta-financeira.git
 cd caderneta-financeira
 ```
 2. Exexute o programa:
