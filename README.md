@@ -37,4 +37,4 @@ git clone https://github.com/seuusuario/caderneta-financeira.git
 cd caderneta-financeira
 ```
 2. Exexute o programa:
-3. Python app_cardeneta.py
+Python app_cardeneta.py
