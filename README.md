@@ -11,8 +11,8 @@ Permite registrar ganhos e gastos, visualizar listas e calcular o saldo líquido
 *  Visualizar lista de ganhos ou de gastos
 *  Calcular e mostrar:
 
-  * Total de ganhos
-  * Total de gastos
+  * Valor de Receita
+  * Valor a pagar
   * Saldo líquido
 * Armazenamento dos dados em arquivos `.txt`
 * Interface gráfica simples com `Tkinter` e `ttk`
