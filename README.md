@@ -38,3 +38,7 @@ cd caderneta-financeira
 ```
 2. Exexute o programa:
 Python app_cardeneta.py
+
+## Instalador.exe
+
+instalador_Cardeneta.exe v1.0
