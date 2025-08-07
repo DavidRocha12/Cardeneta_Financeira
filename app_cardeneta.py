@@ -136,9 +136,9 @@ class App_Contas:
 		itens = Descricao_Valor("", 0, arquivo)
 		itens.itens_lista() # função que faz a leitura do arquivo e guarda tudo em uma lista
 		saldo_lista = itens.soma_valor()# função que soma os valores que estão na lista
-		if arquivo == self.arquivo_ganho:
+		if arquivo == self.caminho_arquivo_ganho:
 			saldo.config(text=f"Valor a Receber: R$ {saldo_lista:.2f}")# atualização do saldo no app
-		elif arquivo == self.arquivo_gasto:
+		elif arquivo == self.caminho_arquivo_gasto:
 			saldo.config(text=f"Valor a Pagar: R$ {saldo_lista:.2f}")
 		return saldo_lista # retorno necessário para calcular valores de ganhos e de gastos na função soma_valores.
 
